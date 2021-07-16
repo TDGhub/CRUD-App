@@ -1,4 +1,4 @@
-﻿Title – CRUD Operation Test
+Title – CRUD Operation Test
 
 Project description: Create Manual test cases and write scripts to Automate tests for Regression for the "Computer database application".
 Prerequisites;
@@ -10,9 +10,10 @@ Prerequisites;
 Resource's location:
     5. GitRepo - https://github.com/TDGhub/CRUD-App.git
     6. Application: https://computer-database.herokuapp.com/
-    7. Test cases: /CRUD_Project_TRINITY/ComputerDatabase/TestCases.xlsx
+    7. Related files: root/files/
     8. Extent Report for test runs - file:///%yourDirectory%/ComputerDatabase/reports/index.html
         a. Where %yourDirectory% is the local directory of the project
+
 Machine to run – Mac OS
 Important!
  ⚠️ Maven is required to run regression tests from this project!
