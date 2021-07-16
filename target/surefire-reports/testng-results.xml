@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-16T09:12:56 BST" name="Suite" finished-at="2021-07-16T09:15:02 BST" duration-ms="125368">
+    <groups>
+    </groups>
+    <test started-at="2021-07-16T09:12:56 BST" name="Regression" finished-at="2021-07-16T09:15:02 BST" duration-ms="125368">
+      <class name="crudTests.NegativeTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:13:20 BST" name="init" finished-at="2021-07-16T09:13:58 BST" duration-ms="38404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="webCreateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:49 BST" name="webCreateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:50 BST" duration-ms="1098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdvd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdvsd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webCreateComp_NT -->
+        <test-method signature="webCreateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:50 BST" name="webCreateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:51 BST" duration-ms="848" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-07-12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2021-07-22]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webCreateComp_NT -->
+        <test-method signature="webCreateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:51 BST" name="webCreateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:52 BST" duration-ms="854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-18-12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2024-07-00]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webCreateComp_NT -->
+        <test-method signature="webCreateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:52 BST" name="webCreateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:52 BST" duration-ms="633" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-07-12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2021-07-22]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[cancel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webCreateComp_NT -->
+        <test-method signature="webDeleteComp_NT()[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:52 BST" name="webDeleteComp_NT" finished-at="2021-07-16T09:14:53 BST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDeleteComp_NT -->
+        <test-method signature="webUpdateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:53 BST" name="webUpdateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:54 BST" duration-ms="863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sdvd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[sdvsd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webUpdateComp_NT -->
+        <test-method signature="webUpdateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:54 BST" name="webUpdateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:54 BST" duration-ms="857" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-07-12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2021-07-22]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webUpdateComp_NT -->
+        <test-method signature="webUpdateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:54 BST" name="webUpdateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:55 BST" duration-ms="816" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-18-12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2024-07-00]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[confirm]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webUpdateComp_NT -->
+        <test-method signature="webUpdateComp_NT(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:14:55 BST" name="webUpdateComp_NT" data-provider="getData" finished-at="2021-07-16T09:14:56 BST" duration-ms="663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-07-12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2021-07-22]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[cancel]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webUpdateComp_NT -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:crudTests.NegativeTests@79351f41]" started-at="2021-07-16T09:15:00 BST" name="quit" finished-at="2021-07-16T09:15:01 BST" duration-ms="1103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- crudTests.NegativeTests -->
+      <class name="crudTests.PositiveTests">
+        <test-method is-config="true" signature="init()[pri:0, instance:crudTests.PositiveTests@66565121]" started-at="2021-07-16T09:13:58 BST" name="init" finished-at="2021-07-16T09:14:43 BST" duration-ms="44173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="webCreateComp_PT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.PositiveTests@66565121]" started-at="2021-07-16T09:14:43 BST" name="webCreateComp_PT" data-provider="getData" finished-at="2021-07-16T09:14:47 BST" duration-ms="4510" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD Computer4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-07-12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2021-08-15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webCreateComp_PT -->
+        <test-method signature="webDeleteComp_PT()[pri:0, instance:crudTests.PositiveTests@66565121]" started-at="2021-07-16T09:14:47 BST" name="webDeleteComp_PT" finished-at="2021-07-16T09:14:48 BST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDeleteComp_PT -->
+        <test-method signature="webUpdateComp_PT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:crudTests.PositiveTests@66565121]" started-at="2021-07-16T09:14:48 BST" name="webUpdateComp_PT" data-provider="getDataUpdate" finished-at="2021-07-16T09:14:49 BST" duration-ms="978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[VS Computer4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2021-08-01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2022-10-15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webUpdateComp_PT -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:crudTests.PositiveTests@66565121]" started-at="2021-07-16T09:15:01 BST" name="quit" finished-at="2021-07-16T09:15:02 BST" duration-ms="729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- crudTests.PositiveTests -->
+      <class name="edgeTests.FilterComputer">
+        <test-method is-config="true" signature="init()[pri:0, instance:edgeTests.FilterComputer@1c32386d]" started-at="2021-07-16T09:12:56 BST" name="init" finished-at="2021-07-16T09:13:20 BST" duration-ms="23716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="webFilterName(java.lang.String)[pri:0, instance:edgeTests.FilterComputer@1c32386d]" started-at="2021-07-16T09:14:56 BST" name="webFilterName" data-provider="getData" finished-at="2021-07-16T09:14:56 BST" duration-ms="548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TD1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webFilterName -->
+        <test-method signature="webFilterName(java.lang.String)[pri:0, instance:edgeTests.FilterComputer@1c32386d]" started-at="2021-07-16T09:14:56 BST" name="webFilterName" data-provider="getData" finished-at="2021-07-16T09:14:57 BST" duration-ms="246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[td1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webFilterName -->
+        <test-method signature="webFilterName(java.lang.String)[pri:0, instance:edgeTests.FilterComputer@1c32386d]" started-at="2021-07-16T09:14:57 BST" name="webFilterName" data-provider="getData" finished-at="2021-07-16T09:14:57 BST" duration-ms="203" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[td]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webFilterName -->
+        <test-method signature="webFilterName(java.lang.String)[pri:0, instance:edgeTests.FilterComputer@1c32386d]" started-at="2021-07-16T09:14:57 BST" name="webFilterName" data-provider="getData" finished-at="2021-07-16T09:14:57 BST" duration-ms="209" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HElloC@mp]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webFilterName -->
+        <test-method signature="webFilterName(java.lang.String)[pri:0, instance:edgeTests.FilterComputer@1c32386d]" started-at="2021-07-16T09:14:57 BST" name="webFilterName" data-provider="getData" finished-at="2021-07-16T09:14:57 BST" duration-ms="39" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[checkError]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webFilterName -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:edgeTests.FilterComputer@1c32386d]" started-at="2021-07-16T09:14:57 BST" name="quit" finished-at="2021-07-16T09:15:00 BST" duration-ms="2641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- edgeTests.FilterComputer -->
+    </test> <!-- Regression -->
+  </suite> <!-- Suite -->
+</testng-results>
